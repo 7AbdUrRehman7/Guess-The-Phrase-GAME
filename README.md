@@ -9,12 +9,14 @@ Attempt to solve the full phrase anytime
 Play solo, against another player, or versus the computer
 AI with two difficulty levels: Easy (random) and Hard (strategic)
 Live phrase display and automatic scoring
+
 📁 Project Structure
 
 game.py: Core gameplay and player interface
 game_functions.py: Contains game mechanics and helper functions
 constants.py: Shared constants and game settings
 mystery_phrases_small.txt: Source of phrases (one per line)
+
 🕹️ How to Play
 
 1. Run the Game
