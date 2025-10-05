@@ -1,5 +1,7 @@
 """Independent reimplementation of helpers for "What's that Phrase?".
 This file avoids any course-provided text while preserving behavior.
+
+Note for owner: Modified to avoid Copyright, orgional implementation is still on the documents/CSCA08/[here]
 """
 from constants import (POINTS_PER_GUESS, COST_OF_VOWEL, BONUS_POINTS,
                        PLAYER_ONE, PLAYER_TWO, GUESS, BUY, SOLVE, QUIT,
